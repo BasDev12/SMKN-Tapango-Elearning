@@ -1,0 +1,34 @@
+/beranda/
+  index.php
+  tentang.php
+  kontak.php
+
+/auth/
+  login.php
+  logout.php
+
+/admin/
+  dashboard.php
+  data_guru.php
+  data_siswa.php
+  mapel.php
+  kelas.php
+
+/guru/
+  dashboard.php
+  materi.php
+  tugas.php
+  nilai.php
+  forum.php
+
+/siswa/
+  dashboard.php
+  materi.php
+  tugas.php
+  nilai.php
+  forum.php
+
+/wali/
+  dashboard.php
+  monitoring.php
+  nilai_siswa.php
